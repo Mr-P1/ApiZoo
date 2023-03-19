@@ -1,9 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "Usuarios":[
+    {
+      "id": 1,
+      "usuario": "joshua",
+      "contraseña": "joshua"
+    },
+    {
+      "id":2,
+      "usuario":"admin",
+      "contraseña":"admin"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Animales":[
+    {
+      
+    }
+  ]
 }
